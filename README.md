@@ -3,3 +3,4 @@
 ## Projects
 
 ## Daily Log
+Day 1: Internet Introduction lessons

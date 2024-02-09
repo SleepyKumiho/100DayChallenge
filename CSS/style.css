@@ -1,11 +1,53 @@
+/* css-tricks.com/almanac */
+
+/*
+:first-child - only affects the first matching element
+:last-child - only affexts the last matching element
+!important
+- overrides other rules and applies the important rule to all valid elements
+eg. p {
+  color: pink !important;
+}
+*/
+
+* {
+    text-align: center;
+}
+
 h1 {
     color: red;
 }
 
-p {
+p, h2 {
     color: lavender;
 }
 
 body {
     background-color: black;
+}
+
+/*activate when hovering over element with mouse*/
+.webtext:hover {
+    border: solid blue;
+    color: red;
+}
+
+#directory {
+    background-color: rgb(100, 20, 0, 0.5);
+}
+
+/*Only applies to p nested in h2 (there can be multiple layers in bewtween*/
+h4 p {
+    font-size: 40px;
+}
+
+/*Only applies where h2 is the direct parent of p*/
+h4 > p {
+    font-size: 100px;
+    text-align: left;
+}
+
+/*Applies to h5 that appear after an h4*/
+h4 + h5 {
+    background-color: #FF0223;
 }

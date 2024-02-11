@@ -10,6 +10,17 @@ eg. p {
 }
 */
 
+p {
+    text-decoration: line-through;
+    text-transform: uppercase;
+    line-height: 30px;
+    font-style:italic;
+    font-weight: bold;
+    /* If the first font option isnt available, use the next in the list */
+    font-family: 'Roboto', sans-serif;
+    font-size: 200%;
+}
+
 * {
     text-align: center;
 }

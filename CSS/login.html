@@ -3,6 +3,18 @@
 <html>
 <head>
   <title>My first website!</title>
+  <style>
+    img {
+      /* lets text wrap around images */
+      float: left;
+      width: 30%;
+    }
+
+    footer {
+      /* Prevents the previous float rule from affecting this element */
+      clear: both;
+    }
+  </style>
 </head>
 <body>
   <header>
@@ -16,6 +28,7 @@
   </header>
   <section>
     <h2>Login</h2>
+    <img src="https://t4.ftcdn.net/jpg/03/80/01/41/360_F_380014189_tbc0nyrQkvFq01RFdRv82Omr8x9AzmXi.jpg">
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
     quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -23,5 +36,8 @@
     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
   </section>
+  <footer>
+    The end for now
+  </footer>
 </body>
 </html>

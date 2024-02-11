@@ -10,3 +10,13 @@
 a {
     display: block;
 }
+
+section p {
+    font-size: 10px;
+}
+
+span {
+    /* Xem makes the element x times larger than the containing element */
+    /* rem is the same as em but it is based off of the root element, in this case <html> */
+    font-size: 5rem;
+}

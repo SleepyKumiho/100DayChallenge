@@ -1,3 +1,8 @@
+body {
+    /* Used here to ovverride a browsers default margin */
+    margin: 0;
+}
+
 .container {
     display: flex;
     flex-wrap: wrap;
@@ -11,10 +16,24 @@ h1 {
     border-right: solid 2px pink;
     width: 400px;
     text-align: center;
+    transition: background-color 2s, rotate 4s;
+    transform-origin: right;
+}
+
+h1:hover {
+    background-color: aquamarine;
+    rotate: 360deg;
 }
 
 img {
     width: 450px;
     height: 300px;
     margin: 10px;
+    transition: all 1s;
+    -moz-box-shadow: 5px 5px 5px #888888;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+img:hover {
+    scale: 2 4;
 }

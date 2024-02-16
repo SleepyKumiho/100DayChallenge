@@ -10,4 +10,5 @@ Day 4: Played with some machine learning models to watch how the judgement proce
 Day 5: Practiced using the box model to manipulate the size of divs. Also learned about the different sizing methods available in css (px, em, rem, VH, VW) <br>
 Day 6: Learned about the critical render path and online resources for minifying CSS code for faster transfers. Also implemented flexbox styles for images, and solidified understanding through an interactive project. <br>
 Day 7: Added transform and transition elements to the previously created flexbox testing webpage. <br>
-Day 8: Introduction to bootstrap, learned about how to link bootstrap with the CDN and how it can streamline element addition to websites.
+Day 8: Introduction to bootstrap, learned about how to link bootstrap with the CDN and how it can streamline element addition to websites. <br>
+Day 9: Covered the introduction to machine learning and data science bootcamp, no coding exercises have been completed today.

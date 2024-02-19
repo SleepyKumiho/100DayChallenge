@@ -13,4 +13,5 @@ Day 7: Added transform and transition elements to the previously created flexbox
 Day 8: Introduction to bootstrap, learned about how to link bootstrap with the CDN and how it can streamline element addition to websites. <br>
 Day 9: Covered the introduction to machine learning and data science bootcamp, no coding exercises have been completed today. <br>
 Day 10: Completed initial steps in the Startup Launch Page exercise, adding the basic elements and styles. <br>
-Day 11: Completed layout organization for the Startup Launch Page exercise. Also learned to use github to upload a website publicly. 
+Day 11: Completed layout organization for the Startup Launch Page exercise. Also learned to use github to upload a website publicly. <br>
+Day 12: Downloaded conda and started a practice environment and a jupyter notebook.

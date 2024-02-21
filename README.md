@@ -14,4 +14,5 @@ Day 8: Introduction to bootstrap, learned about how to link bootstrap with the C
 Day 9: Covered the introduction to machine learning and data science bootcamp, no coding exercises have been completed today. <br>
 Day 10: Completed initial steps in the Startup Launch Page exercise, adding the basic elements and styles. <br>
 Day 11: Completed layout organization for the Startup Launch Page exercise. Also learned to use github to upload a website publicly. <br>
-Day 12: Downloaded conda and started a practice environment and a jupyter notebook.
+Day 12: Downloaded conda and started a practice environment and a jupyter notebook. <br>
+Day 13: Completed a Jupyter Notebook Tutorial to learn about the system of cells and the various keyboard shortcuts available.

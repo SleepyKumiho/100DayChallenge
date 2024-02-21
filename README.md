@@ -16,4 +16,5 @@ Day 10: Completed initial steps in the Startup Launch Page exercise, adding the 
 Day 11: Completed layout organization for the Startup Launch Page exercise. Also learned to use github to upload a website publicly. <br>
 Day 12: Downloaded conda and started a practice environment and a jupyter notebook. <br>
 Day 13: Completed a Jupyter Notebook Tutorial to learn about the system of cells and the various keyboard shortcuts available. <br>
-Day 14: Going through the Pandas tutorial, learning about commands that allow for basic visualizations of data.
+Day 14: Going through the Pandas tutorial, learning about commands that allow for basic visualizations of data. <br>
+Day 15: Completed Pandas tutorial exercises.

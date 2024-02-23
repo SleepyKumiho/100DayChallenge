@@ -18,4 +18,5 @@ Day 12: Downloaded conda and started a practice environment and a jupyter notebo
 Day 13: Completed a Jupyter Notebook Tutorial to learn about the system of cells and the various keyboard shortcuts available. <br>
 Day 14: Going through the Pandas tutorial, learning about commands that allow for basic visualizations of data. <br>
 Day 15: Completed Pandas tutorial exercises. <br>
-Day 16: Began numpy tutorial, learned about the mechanism behind dot product and other mathematical functions available for matrices, and their differences. Also practiced using comparisons and reshaping and transposing matrices for calculation purposes.
+Day 16: Began numpy tutorial, learned about the mechanism behind dot product and other mathematical functions available for matrices, and their differences. Also practiced using comparisons and reshaping and transposing matrices for calculation purposes. <br>
+Day 17: Completed Numpy exercises.

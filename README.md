@@ -20,4 +20,5 @@ Day 14: Going through the Pandas tutorial, learning about commands that allow fo
 Day 15: Completed Pandas tutorial exercises. Began numpy tutorial, learned about the mechanism behind dot product and other mathematical functions available for matrices, and their differences. Also practiced using comparisons and reshaping and transposing matrices for calculation purposes. <br>
 Day 16: Completed Numpy exercises. <br>
 Day 17: Began matplotlib tutorial, learned how to start simple plots and began customizing the type of plot and the labels that help make plots useful at a glance. <br>
-Day 18: Continued matplotlib tutorial, practicing using pandas dataframes to create plots. 
+Day 18: Continued matplotlib tutorial, practicing using pandas dataframes to create plots. <br>
+Day 19: Completed matplotlib tutorial, customizing figure colors and styles, and completed matplotlib exercise set.

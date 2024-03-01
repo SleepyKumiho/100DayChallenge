@@ -22,4 +22,5 @@ Day 16: Completed Numpy exercises. <br>
 Day 17: Began matplotlib tutorial, learned how to start simple plots and began customizing the type of plot and the labels that help make plots useful at a glance. <br>
 Day 18: Continued matplotlib tutorial, practicing using pandas dataframes to create plots. <br>
 Day 19: Completed matplotlib tutorial, customizing figure colors and styles, and completed matplotlib exercise set. <br?
-Day 20: Began Scikit=Learn tutorial, going over a basic workflow and exploring a cheatsheet style notebook.
+Day 20: Began Scikit=Learn tutorial, going over a basic workflow and exploring a cheatsheet style notebook. <br>
+Day 21: Continued Scikit-learn tutorial, reviewed basic statistical methods like data splits needed for initating a model.

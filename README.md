@@ -27,3 +27,4 @@ Day 21: Continued Scikit-learn tutorial, reviewed basic statistical methods like
 Day 22: Continued scikit-learn tutorial. <br>
 Day 23: Followed an example of a full sciekit-learn use case, creating, training, and analyzing a random forest model. <br>
 Day 24: Learned about how to update and remove certain packages in conda to deal with certain version based warnings and started going more in depth into transforming data before using it in a model.
+Day 25: Practiced using OneHotEncoder to transform categorical data into a binary matrix that is usable for models.

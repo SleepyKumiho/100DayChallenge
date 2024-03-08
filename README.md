@@ -30,3 +30,4 @@ Day 24: Learned about how to update and remove certain packages in conda to deal
 Day 25: Practiced using OneHotEncoder to transform categorical data into a binary matrix that is usable for models. <br>
 Day 26: Learned to use Pandas .filna() and Scikit Learn imputers in order to transform and fill missing data. <br>
 Day 27: Looked through the Scikit Learn model map and pracitcing using different regression models and comparing the results using California housing data.
+Day 28: Testing models for regression predictions.

@@ -29,5 +29,8 @@ Day 23: Followed an example of a full sciekit-learn use case, creating, training
 Day 24: Learned about how to update and remove certain packages in conda to deal with certain version based warnings and started going more in depth into transforming data before using it in a model. <br>
 Day 25: Practiced using OneHotEncoder to transform categorical data into a binary matrix that is usable for models. <br>
 Day 26: Learned to use Pandas .filna() and Scikit Learn imputers in order to transform and fill missing data. <br>
-Day 27: Looked through the Scikit Learn model map and pracitcing using different regression models and comparing the results using California housing data.
-Day 28: Testing models for regression predictions.
+Day 27: Looked through the Scikit Learn model map and pracitcing using different regression models and comparing the results using California housing data. <br>
+Day 28: Testing models for regression predictions. <br>
+Day 29: Testing Scikit learn models for classification predictions. <br>
+Day 30: Learning more about how to fit Scikit learn models with data. <br>
+Day 31: Learning more about using models to create predictions and interpreting results. <br>

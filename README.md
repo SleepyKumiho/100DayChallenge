@@ -34,3 +34,4 @@ Day 28: Testing models for regression predictions. <br>
 Day 29: Testing Scikit learn models for classification predictions. <br>
 Day 30: Learning more about how to fit Scikit learn models with data. <br>
 Day 31: Learning more about using models to create predictions and interpreting results. <br>
+Day 32: Used predict_proba() to look at classification probabilities and compared to a predict() prediction on the same dataset. <br?

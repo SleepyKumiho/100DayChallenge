@@ -36,3 +36,4 @@ Day 30: Learning more about how to fit Scikit learn models with data. <br>
 Day 31: Learning more about using models to create predictions and interpreting results. <br>
 Day 32: Used predict_proba() to look at classification probabilities and compared to a predict() prediction on the same dataset. <br>
 Day 33: Learning about the different ways to evaluate Scikit-Learn models (so far score() and cross validation) <br>
+Day 34: Learned about what calculations are used behind the scenes when using score() on regression versus classification models.

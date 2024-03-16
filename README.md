@@ -38,4 +38,5 @@ Day 32: Used predict_proba() to look at classification probabilities and compare
 Day 33: Learning about the different ways to evaluate Scikit-Learn models (so far score() and cross validation) <br>
 Day 34: Learned about what calculations are used behind the scenes when using score() on regression versus classification models. <br>
 Day 35: Compared the results of accuracy (cross validation) and an ROC curve on classification data. <br>
-Day 36: Learned about the use of confusion matrices and classification reports as methods to analuze classification models.
+Day 36: Learned about the use of confusion matrices and classification reports as methods to analuze classification models. <br>
+Day 37: Practiced using an R2 score to analyze regression models.

@@ -39,4 +39,5 @@ Day 33: Learning about the different ways to evaluate Scikit-Learn models (so fa
 Day 34: Learned about what calculations are used behind the scenes when using score() on regression versus classification models. <br>
 Day 35: Compared the results of accuracy (cross validation) and an ROC curve on classification data. <br>
 Day 36: Learned about the use of confusion matrices and classification reports as methods to analuze classification models. <br>
-Day 37: Practiced using the r2_score function to analyze regression models.
+Day 37: Practiced using the r2_score function to analyze regression models. <br>
+Day 38: Learned about using mean absolute error and mean squared error as other methods to evaluate the results of a regression model.

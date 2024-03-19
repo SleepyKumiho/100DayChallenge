@@ -40,4 +40,6 @@ Day 34: Learned about what calculations are used behind the scenes when using sc
 Day 35: Compared the results of accuracy (cross validation) and an ROC curve on classification data. <br>
 Day 36: Learned about the use of confusion matrices and classification reports as methods to analuze classification models. <br>
 Day 37: Practiced using the r2_score function to analyze regression models. <br>
-Day 38: Learned about using mean absolute error and mean squared error as other methods to evaluate the results of a regression model.
+Day 38: Learned about using mean absolute error and mean squared error as other methods to evaluate the results of a regression model. <br>
+Day 39: Used cross_val_score and looked through the different options for the "scoring" parameter. <br>
+Day 40: Practicing using the direct metrics functions from sklearn to collect evaluation data of classification and regression data.

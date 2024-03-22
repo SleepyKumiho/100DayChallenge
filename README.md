@@ -44,4 +44,5 @@ Day 38: Learned about using mean absolute error and mean squared error as other 
 Day 39: Used cross_val_score and looked through the different options for the "scoring" parameter. <br>
 Day 40: Practicing using the direct metrics functions from sklearn to collect evaluation data of classification and regression data. <br>
 Day 41: Overview of huperparameters. <br>
-Day 42: Used GridSearchCV and RandomSearchCV to test different huperparameter combinations without manually adjusting the values.
+Day 42: Used GridSearchCV and RandomSearchCV to test different huperparameter combinations without manually adjusting the values. <br>
+Day 43: Learned how to use the `pickle` and `Joblib` modules to export and load machine learning models. Also completed an overview of the learning up to this point, will begin working on the milestone projects soon. <br>

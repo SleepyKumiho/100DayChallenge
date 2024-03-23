@@ -1,6 +1,7 @@
 # 100 Days of Code 
 
 ## Projects
+<a href = "https://github.com/SleepyKumiho/100DayChallenge/tree/main/ML%20and%20Data%20Science/Milestone%20Project%201">ML Milestone Project 1 - Heart Disease Predictions</a>
 
 ## Daily Log
 Day 1: Going over the basics of using CSS to personalize a webpage  <br>

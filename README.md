@@ -49,4 +49,5 @@ Day 42: Used GridSearchCV and RandomSearchCV to test different huperparameter co
 Day 43: Learned how to use the `pickle` and `Joblib` modules to export and load machine learning models. Also completed an overview of the learning up to this point, will begin working on the milestone projects soon. <br>
 Day 44: Set up a new environment for the first milestone project. <br>
 Day 45: Prepared the notebook environment for the project. <br>
-Day 46: Began data exploration for heart disease data.
+Day 46: Began data exploration for heart disease data. <br>
+Day 47: Completed exploratory data analysis with a correlation matrix across the entire dataframe. 

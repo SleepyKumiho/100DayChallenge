@@ -51,4 +51,6 @@ Day 44: Set up a new environment for the first milestone project. <br>
 Day 45: Prepared the notebook environment for the project. <br>
 Day 46: Began data exploration for heart disease data. <br>
 Day 47: Completed exploratory data analysis with a correlation matrix across the entire dataframe. <br>
-Day 48: Completed initial model evaluation. 
+Day 48: Completed initial model evaluation. <br>
+Day 49: Started hyperparameter tuning process with K nearest neighbors model. <br>
+Day 50: Starting to use RandomizedSearchCV(), created parameter grids for testing Logistic regression and random forest models.

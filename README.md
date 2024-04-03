@@ -55,4 +55,5 @@ Day 48: Completed initial model evaluation. <br>
 Day 49: Started hyperparameter tuning process with K nearest neighbors model. <br>
 Day 50: Starting to use RandomizedSearchCV(), created parameter grids for testing Logistic regression and random forest models. <br>
 Day 51: Completed Randomized search tuning, improvements were minimal to both models. <br>
-Day 52: Used Grid search cv to attempt improvements on both models again.
+Day 52: Used Grid search cv to attempt improvements on both models again. Produced a bar graph of cross validated evaluation metrics. <br>
+Day 53: Analyzed the feature importance of the 11 features used on the logisitc regression model.

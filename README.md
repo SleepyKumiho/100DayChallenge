@@ -58,3 +58,4 @@ Day 51: Completed Randomized search tuning, improvements were minimal to both mo
 Day 52: Used Grid search cv to attempt improvements on both models again. Produced a bar graph of cross validated evaluation metrics. <br>
 Day 53: Analyzed the feature importance of the 11 features used on the logisitc regression model. <br>
 Day 54: Completed the end-to-end heart disease classification project. <br>
+Day 55: Went over milestone project 2 overview: Bulldozer Sales Prediction model.

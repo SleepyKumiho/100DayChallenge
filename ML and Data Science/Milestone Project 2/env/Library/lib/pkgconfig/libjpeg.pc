@@ -1,0 +1,10 @@
+prefix=C:/Users/sangw/OneDrive/Documents/GitHub/100DayChallenge/ML and Data Science/Milestone Project 2/env/Library
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libjpeg
+Description: Reads and writes JPEG files
+Version: ..0
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}

@@ -59,4 +59,5 @@ Day 52: Used Grid search cv to attempt improvements on both models again. Produc
 Day 53: Analyzed the feature importance of the 11 features used on the logisitc regression model. <br>
 Day 54: Completed the end-to-end heart disease classification project. <br>
 Day 55: Went over milestone project 2 overview: Bulldozer Sales Prediction model. <br>
-Day 56: Prepared the conda environment and jupyter notebook for milestone project 2.
+Day 56: Prepared the conda environment and jupyter notebook for milestone project 2. <br>
+Day 57: Wrote a header for the second milestone project explaining the features and the goal.

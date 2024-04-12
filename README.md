@@ -62,3 +62,4 @@ Day 55: Went over milestone project 2 overview: Bulldozer Sales Prediction model
 Day 56: Prepared the conda environment and jupyter notebook for milestone project 2. <br>
 Day 57: Wrote a header for the second milestone project explaining the features and the goal. <br>
 Day 58: Started initial data exploration, reviewing the different factors. <br>
+Day 59: Took advantage of the parse_dates parameter to allow pandas to recognize dates as datetimes.

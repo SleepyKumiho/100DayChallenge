@@ -60,4 +60,5 @@ Day 53: Analyzed the feature importance of the 11 features used on the logisitc 
 Day 54: Completed the end-to-end heart disease classification project. <br>
 Day 55: Went over milestone project 2 overview: Bulldozer Sales Prediction model. <br>
 Day 56: Prepared the conda environment and jupyter notebook for milestone project 2. <br>
-Day 57: Wrote a header for the second milestone project explaining the features and the goal.
+Day 57: Wrote a header for the second milestone project explaining the features and the goal. <br>
+Day 58: Started initial data exploration, reviewing the different factors. <br>

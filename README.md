@@ -65,3 +65,4 @@ Day 58: Started initial data exploration, reviewing the different factors. <br>
 Day 59: Took advantage of the parse_dates parameter to allow pandas to recognize dates as datetimes. <br>
 Day 60: Reorganized data by datetime and created a copy of the data to safely experiment with in the future. <br>
 Day 61: Split the saledata feature into more specific elements in the hope of enriching the data on when the sale happened during the year. <br>
+Day 62: Started initializing a model to support EDA, need to fill the NA values and translate the categorical values before more progress can be made <br>

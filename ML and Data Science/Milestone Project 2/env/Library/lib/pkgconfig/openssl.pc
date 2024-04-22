@@ -1,0 +1,9 @@
+prefix=C:/Users/sangw/OneDrive/Documents/GitHub/100DayChallenge/ML and Data Science/Milestone Project 2/env/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.2.1 

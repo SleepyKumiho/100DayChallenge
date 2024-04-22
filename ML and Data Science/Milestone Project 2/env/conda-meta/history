@@ -168,3 +168,27 @@
 +defaults/win-64::zlib-1.2.13-h8cc25b3_0
 +defaults/win-64::zstd-1.5.5-hd43e919_0
 # update specs: ['jupyter', 'numpy', 'pandas', 'scikit-learn', 'seaborn']
+==> 2024-04-21 21:16:16 <==
+# cmd: C:\Users\sangw\miniconda3\Scripts\conda-script.py update -c conda-forge pandas
+# conda version: 23.11.0
+-defaults/win-64::certifi-2024.2.2-py312haa95532_0
+-defaults/win-64::openssl-3.0.13-h2bbff1b_0
+-defaults/win-64::pandas-2.2.1-py312h0158946_0
+-defaults/win-64::python-3.12.2-h1d929f7_0
+-defaults/win-64::tk-8.6.12-h2bbff1b_0
+-defaults/win-64::vs2015_runtime-14.27.29016-h5e58377_2
+-defaults/win-64::zlib-1.2.13-h8cc25b3_0
++conda-forge/noarch::certifi-2024.2.2-pyhd8ed1ab_0
++conda-forge/win-64::libexpat-2.5.0-h63175ca_1
++conda-forge/win-64::libsqlite-3.45.3-hcfcfb64_0
++conda-forge/win-64::libzlib-1.2.13-hcfcfb64_5
++conda-forge/win-64::openssl-3.2.1-hcfcfb64_1
++conda-forge/win-64::pandas-2.2.2-py312h2ab9e98_0
++conda-forge/win-64::python-3.12.2-h2628c8c_0_cpython
++conda-forge/win-64::python_abi-3.12-4_cp312
++conda-forge/win-64::tk-8.6.13-h5226925_1
++conda-forge/win-64::ucrt-10.0.22621.0-h57928b3_0
++conda-forge/win-64::vc14_runtime-14.38.33130-h82b7239_18
++conda-forge/win-64::vs2015_runtime-14.38.33130-hcb4865c_18
++conda-forge/win-64::zlib-1.2.13-hcfcfb64_5
+# update specs: ['pandas']

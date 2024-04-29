@@ -69,3 +69,4 @@ Day 62: Started initializing a model to support EDA, need to fill the NA values 
 Day 63: Used the pandas "Category" dtype to transform string type columns into categorical data. <br>
 Day 64: Filling in missing numerical data with median values and added a column to mark where missing values were in case the missing value itself is a useful factor. <br>
 Day 65: Finished transforming the categorical data into a numerical format using Pandas Categorical type and filled all missing values. <br>
+Day 66: Initialized a Random Forest Regressor model and timed how long it took to load all of the data without any trimming. <br>

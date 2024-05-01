@@ -71,3 +71,4 @@ Day 64: Filling in missing numerical data with median values and added a column 
 Day 65: Finished transforming the categorical data into a numerical format using Pandas Categorical type and filled all missing values. <br>
 Day 66: Initialized a Random Forest Regressor model and timed how long it took to load all of the data without any trimming. <br>
 Day 67: Split data into train and validation sets using the sale year, as the goal of this model is to accurately predict future prices. <br>
+Day 68: Created two custom evaluation functions, one to calculate the RMSLE and another to combine the scores for MAE, RMSLE and R^2 for training and validation sets <br>

@@ -73,3 +73,4 @@ Day 66: Initialized a Random Forest Regressor model and timed how long it took t
 Day 67: Split data into train and validation sets using the sale year, as the goal of this model is to accurately predict future prices. <br>
 Day 68: Created two custom evaluation functions, one to calculate the RMSLE and another to combine the scores for MAE, RMSLE and R^2 for training and validation sets <br>
 Day 69: Used the max_samples feature of the RandomForestRegressor to limit the size of the training data to improve experimentation speeds. <br>
+Day 70: Used RandomizedSearchCV to help with hyperparameter tuning. <br>

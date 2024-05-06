@@ -2,6 +2,7 @@
 
 ## Projects
 <a href = "https://github.com/SleepyKumiho/100DayChallenge/tree/main/ML%20and%20Data%20Science/Milestone%20Project%201">ML Milestone Project 1 - Heart Disease Predictions</a>
+<a href = "https://github.com/SleepyKumiho/100DayChallenge/tree/main/ML%20and%20Data%20Science/Milestone%20Project%202">ML Milestone Project 2 - Bluebook for Bulldozers (Bulldozer Price Predictions)</a>
 
 ## Daily Log
 Day 1: Going over the basics of using CSS to personalize a webpage  <br>
@@ -75,3 +76,4 @@ Day 68: Created two custom evaluation functions, one to calculate the RMSLE and 
 Day 69: Used the max_samples feature of the RandomForestRegressor to limit the size of the training data to improve experimentation speeds. <br>
 Day 70: Used RandomizedSearchCV to help with hyperparameter tuning. <br>
 Day 71: Used pre-collected hyperparameters to train a new model and make predicitons on the test data. Preprocessed test data so the model could use it and formatted the data to match the requested format for a kaggle submission. <br>
+Day 72: Created a function to visualize the top feature importance scores <br>

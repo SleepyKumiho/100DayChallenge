@@ -74,3 +74,4 @@ Day 67: Split data into train and validation sets using the sale year, as the go
 Day 68: Created two custom evaluation functions, one to calculate the RMSLE and another to combine the scores for MAE, RMSLE and R^2 for training and validation sets <br>
 Day 69: Used the max_samples feature of the RandomForestRegressor to limit the size of the training data to improve experimentation speeds. <br>
 Day 70: Used RandomizedSearchCV to help with hyperparameter tuning. <br>
+Day 71: Used pre-collected hyperparameters to train a new model and make predicitons on the test data. Preprocessed test data so the model could use it and formatted the data to match the requested format for a kaggle submission. <br>

@@ -1,7 +1,7 @@
 # 100 Days of Code 
 
 ## Projects
-<a href = "https://github.com/SleepyKumiho/100DayChallenge/tree/main/ML%20and%20Data%20Science/Milestone%20Project%201">ML Milestone Project 1 - Heart Disease Predictions</a>
+<a href = "https://github.com/SleepyKumiho/100DayChallenge/tree/main/ML%20and%20Data%20Science/Milestone%20Project%201">ML Milestone Project 1 - Heart Disease Predictions</a><br>
 <a href = "https://github.com/SleepyKumiho/100DayChallenge/tree/main/ML%20and%20Data%20Science/Milestone%20Project%202">ML Milestone Project 2 - Bluebook for Bulldozers (Bulldozer Price Predictions)</a>
 
 ## Daily Log

@@ -78,3 +78,4 @@ Day 70: Used RandomizedSearchCV to help with hyperparameter tuning. <br>
 Day 71: Used pre-collected hyperparameters to train a new model and make predicitons on the test data. Preprocessed test data so the model could use it and formatted the data to match the requested format for a kaggle submission. <br>
 Day 72: Created a function to visualize the top feature importance scores <br>
 Day 73: Followed an overview of the 4 main forms of data along with starting to learn about what a data engineer does and how they work with data scientists. <br>
+Day 74: Continued learning about data engineers and common tasks they complete, like maintaining data sources and analysis tools. <br>

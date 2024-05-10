@@ -82,3 +82,4 @@ Day 74: Continued learning about data engineers and common tasks they complete, 
 Day 75: Went more in depth on the differences between relational and non-relational databases and why the ideal database model is dependent on the intended use. <br>
 Day 76: Learned about Hadoop, along with HDFS and MapReduce, and how these tools helped solve how to work with big data. <br>
 Day 77: Learned about stream processing and how Apache Spark and Flink both improved on the processing speed of MapReduce. <br>
+Day 78: Learned about Kafka, message brokers, and how Kafka works with other tools like Apache Spark and Hadoop all link together. <br>

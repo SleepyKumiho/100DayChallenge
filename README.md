@@ -80,3 +80,4 @@ Day 72: Created a function to visualize the top feature importance scores <br>
 Day 73: Followed an overview of the 4 main forms of data along with starting to learn about what a data engineer does and how they work with data scientists. <br>
 Day 74: Continued learning about data engineers and common tasks they complete, like maintaining data sources and analysis tools. <br>
 Day 75: Went more in depth on the differences between relational and non-relational databases and why the ideal database model is dependent on the intended use. <br>
+Day 76: Learned about Hadoop, along with HDFS and MapReduce, and how these tools helped solve how to work with big data. <br>
